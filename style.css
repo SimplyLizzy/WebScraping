@@ -1,0 +1,85 @@
+.bgblue {
+    background-color: aqua;
+}
+
+
+.bgwhite {
+    background-color: white;
+    padding: 2rem 2rem;
+}
+
+
+.navbar-brand {
+    background-color: darkcyan;
+    padding:1rem 1rem;
+    font-family: "Times New Roman", Times, serif;
+}   
+
+.navbar-nav {
+    font-family: "Times New Roman", Times, serif;
+}
+
+/* .bggreen {
+    background-color: darkcyan;
+    text-align: center;
+    
+} */
+
+body {
+    background-color: lightgray;
+}
+
+
+.container {
+    margin: auto;
+    padding: 2rem;
+}
+
+.box {
+    padding: 20px;
+    color: #fff;
+  }
+
+
+.maxtemp {
+    border: 2px solid darkcyan;
+  }
+
+.cloudiness {
+    border: 2px solid darkcyan;
+  }
+
+.humidity {
+    border: 2px solid darkcyan;
+  }
+
+.windspeed {
+    border: 2px solid darkcyan;  
+}
+
+img{
+    padding: 0.5rem 0.5rem;
+}
+
+h1 {
+    font-family: "Times New Roman", Times, serif;
+  }
+
+
+h2 {
+    font-family: "Times New Roman", Times, serif;
+}
+
+h3 {
+    font-family: "Times New Roman", Times, serif;
+}
+
+p {
+    font-family: "Times New Roman", Times, serif;
+}
+
+.tablepadding {
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: white;
+}
